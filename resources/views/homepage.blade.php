@@ -130,7 +130,7 @@
                 <div class="container">
                     <div class="row">
                         <div class="col-md-9 col-lg-7">
-                            <h1> Build stylish, lean sites with Stack </h1>
+                            <h1> Welcome to RTC-Tagoloan </h1>
                             <p class="lead"> Stack offers a clean and contemporary look to suit a range of purposes from corporate, tech startup, marketing site to digital storefront. </p>
                             <a class="btn btn--primary type--uppercase" href="#"> <span class="btn__text">
 						View The Demos
